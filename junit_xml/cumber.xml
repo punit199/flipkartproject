@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="43.421962">
+<testcase classname="filpkat home page" name="select the mi phone with range 10000 to 20000" time="43.421962">
+<system-out><![CDATA[Given close the popup.......................................................passed
+When login to filpkat.......................................................passed
+And enter the "mobile" in search box and enter..............................passed
+Then set the range and verify the range.....................................passed
+Then select the ram for ph..................................................passed
+And get all the sujjected phone in ui.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
